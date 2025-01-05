@@ -1,0 +1,27 @@
+#outputs {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 25px;
+    background-color: rgb(218, 126, 144);
+    border-radius: 50px;
+    margin: 5px;
+}
+
+#outputs h3 {
+    font-size: 1rem;
+}
+
+#outputs button {
+    width: 30px;
+    height: 30px;
+    background-color: crimson;
+    border: 1px solid cornsilk;
+    border-radius: 50px;
+    color: cornsilk;
+}
+
+#outputs button:hover {
+    background-color: cornsilk;
+    color: crimson;
+}

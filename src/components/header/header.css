@@ -1,0 +1,18 @@
+#nav {
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: cornflowerblue;
+    font-weight: bold;
+    color: cornsilk;
+}
+
+.nav-link:hover {
+    background-color: cornsilk;
+    color: cornflowerblue;
+    padding: 2px 8px;
+    border-radius: 50px;
+}
